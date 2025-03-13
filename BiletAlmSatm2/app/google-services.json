@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885255077178",
+    "project_id": "biletalimsatim",
+    "storage_bucket": "biletalimsatim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885255077178:android:2dd0500b7c853df0a96403",
+        "android_client_info": {
+          "package_name": "com.example.biletalmsatm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2ghaKBUr9HM6fa-4erR_Re2CORHm6R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
